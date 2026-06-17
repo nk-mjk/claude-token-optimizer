@@ -1,6 +1,6 @@
-# token-optimizer
-
 ![token-optimizer](./token-optimizer-title.png)
+
+# token-optimizer
 
 > **AI도 아껴 써야 한다.**  
 > LLM이 하던 일 중 Python이 대신할 수 있는 것을 찾아내고, 승인 후 실제로 바꿔준다.
